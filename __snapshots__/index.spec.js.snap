@@ -1,0 +1,6476 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Builds full index 1`] = `
+Object {
+  "Ages": Object {
+    "Over 25": Object {
+      "Colors": Object {
+        "blue": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 5,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 5,
+                },
+              },
+              "count": 11,
+            },
+          },
+          "count": 20,
+        },
+        "brown": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 8,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 5,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 12,
+            },
+          },
+          "count": 16,
+        },
+        "green": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 17,
+        },
+        "red": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 10,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "count": 19,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 5,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 8,
+            },
+            "green": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 5,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 13,
+            },
+          },
+          "count": 20,
+        },
+        "medium": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 5,
+                },
+                "red": Object {
+                  "count": 5,
+                },
+              },
+              "count": 14,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 13,
+            },
+          },
+          "count": 27,
+        },
+        "small": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 9,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 4,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 11,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 5,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 14,
+            },
+          },
+          "count": 25,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 10,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 5,
+                },
+                "red": Object {
+                  "count": 5,
+                },
+              },
+              "count": 14,
+            },
+            "small": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 4,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 11,
+            },
+          },
+          "count": 32,
+        },
+        "Disabled": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 5,
+                },
+              },
+              "count": 11,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 5,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 12,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 8,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 5,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 13,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 13,
+            },
+            "small": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 5,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 14,
+            },
+          },
+          "count": 40,
+        },
+      },
+      "count": 72,
+    },
+    "Under 25": Object {
+      "Colors": Object {
+        "blue": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 5,
+        },
+        "brown": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+        "green": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 6,
+        },
+        "red": Object {
+          "Sizes": Object {
+            "medium": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "count": 8,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+        "medium": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "red": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 10,
+        },
+        "small": Object {
+          "Colors": Object {
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "small": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 12,
+        },
+        "Disabled": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+            "small": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "count": 28,
+    },
+  },
+  "Colors": Object {
+    "blue": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 5,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 5,
+                },
+              },
+              "count": 11,
+            },
+          },
+          "count": 20,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 5,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 5,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 7,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 9,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 11,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 5,
+                },
+              },
+              "count": 11,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 14,
+        },
+      },
+      "count": 25,
+    },
+    "brown": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 8,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 5,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 12,
+            },
+          },
+          "count": 16,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 8,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "count": 13,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 5,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 6,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 6,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 9,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 5,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 12,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "count": 25,
+    },
+    "green": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 17,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 6,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 5,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 6,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 9,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 6,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 6,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 13,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 8,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 10,
+        },
+      },
+      "count": 23,
+    },
+    "red": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 10,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "count": 19,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "medium": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+            "small": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Sizes": Object {
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "Disabled": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "count": 8,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 4,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 13,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 10,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 10,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 11,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "count": 27,
+    },
+  },
+  "Sizes": Object {
+    "big": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 5,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 8,
+            },
+            "green": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 5,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 13,
+            },
+          },
+          "count": 20,
+        },
+        "Under 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Colors": Object {
+        "blue": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 5,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 7,
+        },
+        "brown": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 8,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "count": 13,
+        },
+        "green": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 5,
+        },
+        "red": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 4,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 12,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 5,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 13,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 17,
+        },
+      },
+      "count": 29,
+    },
+    "medium": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 5,
+                },
+                "red": Object {
+                  "count": 5,
+                },
+              },
+              "count": 14,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 13,
+            },
+          },
+          "count": 27,
+        },
+        "Under 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "red": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 10,
+        },
+      },
+      "Colors": Object {
+        "blue": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 9,
+        },
+        "brown": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 5,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 6,
+        },
+        "green": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 6,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 9,
+        },
+        "red": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 5,
+                },
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 13,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 5,
+                },
+                "red": Object {
+                  "count": 5,
+                },
+              },
+              "count": 14,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 6,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 16,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 13,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 21,
+        },
+      },
+      "count": 37,
+    },
+    "small": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 9,
+            },
+            "brown": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 4,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 11,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 5,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 14,
+            },
+          },
+          "count": 25,
+        },
+        "Under 25": Object {
+          "Colors": Object {
+            "brown": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "green": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "red": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "Disabled": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Colors": Object {
+        "blue": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 5,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 9,
+        },
+        "brown": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+                "Disabled": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 6,
+        },
+        "green": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 4,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 6,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 9,
+        },
+        "red": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 3,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "Under 25": Object {
+              "Status": Object {
+                "Active": Object {
+                  "count": 1,
+                },
+                "Disabled": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Disabled": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 10,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 4,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 11,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 6,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 5,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 14,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 18,
+        },
+      },
+      "count": 34,
+    },
+  },
+  "Status": Object {
+    "Active": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 10,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 5,
+                },
+                "red": Object {
+                  "count": 5,
+                },
+              },
+              "count": 14,
+            },
+            "small": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 4,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 11,
+            },
+          },
+          "count": 32,
+        },
+        "Under 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "small": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 12,
+        },
+      },
+      "Colors": Object {
+        "blue": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 11,
+        },
+        "brown": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 9,
+        },
+        "green": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 4,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 2,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 6,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 13,
+        },
+        "red": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 5,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 10,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 11,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 12,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 5,
+                },
+                "red": Object {
+                  "count": 5,
+                },
+              },
+              "count": 14,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 1,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 6,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 16,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 4,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 11,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 4,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 6,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "count": 44,
+    },
+    "Disabled": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 5,
+                },
+              },
+              "count": 11,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 5,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 12,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 8,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 9,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 5,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 13,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 13,
+            },
+            "small": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 5,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 14,
+            },
+          },
+          "count": 40,
+        },
+        "Under 25": Object {
+          "Colors": Object {
+            "blue": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+            "brown": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "green": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+            "red": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+            "small": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "Colors": Object {
+        "blue": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 3,
+                },
+                "small": Object {
+                  "count": 5,
+                },
+              },
+              "count": 11,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+          },
+          "count": 14,
+        },
+        "brown": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 5,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 12,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+                "small": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+        "green": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 3,
+                },
+                "medium": Object {
+                  "count": 2,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 8,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 1,
+                },
+                "medium": Object {
+                  "count": 1,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+          },
+          "count": 10,
+        },
+        "red": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Sizes": Object {
+                "big": Object {
+                  "count": 2,
+                },
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 9,
+            },
+            "Under 25": Object {
+              "Sizes": Object {
+                "medium": Object {
+                  "count": 4,
+                },
+                "small": Object {
+                  "count": 3,
+                },
+              },
+              "count": 7,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+            "medium": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+            "small": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 5,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 2,
+                },
+              },
+              "count": 13,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 1,
+                },
+                "brown": Object {
+                  "count": 2,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 7,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 2,
+            },
+          },
+          "count": 17,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 3,
+                },
+                "brown": Object {
+                  "count": 4,
+                },
+                "green": Object {
+                  "count": 2,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 13,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 2,
+                },
+                "brown": Object {
+                  "count": 1,
+                },
+                "green": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 2,
+                },
+              },
+              "count": 5,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 5,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 2,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 3,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 4,
+                },
+                "Under 25": Object {
+                  "count": 4,
+                },
+              },
+              "count": 8,
+            },
+          },
+          "count": 21,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "Colors": Object {
+                "blue": Object {
+                  "count": 5,
+                },
+                "brown": Object {
+                  "count": 3,
+                },
+                "green": Object {
+                  "count": 3,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 14,
+            },
+            "Under 25": Object {
+              "Colors": Object {
+                "brown": Object {
+                  "count": 1,
+                },
+                "red": Object {
+                  "count": 3,
+                },
+              },
+              "count": 4,
+            },
+          },
+          "Colors": Object {
+            "blue": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 5,
+                },
+              },
+              "count": 5,
+            },
+            "brown": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 1,
+                },
+              },
+              "count": 4,
+            },
+            "green": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 3,
+            },
+            "red": Object {
+              "Ages": Object {
+                "Over 25": Object {
+                  "count": 3,
+                },
+                "Under 25": Object {
+                  "count": 3,
+                },
+              },
+              "count": 6,
+            },
+          },
+          "count": 18,
+        },
+      },
+      "count": 56,
+    },
+  },
+  "count": 100,
+}
+`;
+
+exports[`Builds first level index 1`] = `
+Object {
+  "Ages": Object {
+    "Over 25": Object {
+      "count": 72,
+    },
+    "Under 25": Object {
+      "count": 28,
+    },
+  },
+  "Colors": Object {
+    "blue": Object {
+      "count": 25,
+    },
+    "brown": Object {
+      "count": 25,
+    },
+    "green": Object {
+      "count": 23,
+    },
+    "red": Object {
+      "count": 27,
+    },
+  },
+  "Sizes": Object {
+    "big": Object {
+      "count": 29,
+    },
+    "medium": Object {
+      "count": 37,
+    },
+    "small": Object {
+      "count": 34,
+    },
+  },
+  "Status": Object {
+    "Active": Object {
+      "count": 44,
+    },
+    "Disabled": Object {
+      "count": 56,
+    },
+  },
+  "count": 100,
+}
+`;
+
+exports[`Builds index with 1 level selected path 1`] = `
+Object {
+  "Sizes": Object {
+    "big": Object {
+      "count": 29,
+    },
+    "medium": Object {
+      "count": 37,
+    },
+    "small": Object {
+      "count": 34,
+    },
+  },
+  "count": 100,
+}
+`;
+
+exports[`Builds index with 2 levels selected path 1`] = `
+Object {
+  "Ages": Object {
+    "Over 25": Object {
+      "Colors": Object {
+        "blue": Object {
+          "count": 20,
+        },
+        "brown": Object {
+          "count": 16,
+        },
+        "green": Object {
+          "count": 17,
+        },
+        "red": Object {
+          "count": 19,
+        },
+      },
+      "count": 72,
+    },
+    "Under 25": Object {
+      "Colors": Object {
+        "blue": Object {
+          "count": 5,
+        },
+        "brown": Object {
+          "count": 9,
+        },
+        "green": Object {
+          "count": 6,
+        },
+        "red": Object {
+          "count": 8,
+        },
+      },
+      "count": 28,
+    },
+  },
+  "count": 100,
+}
+`;
+
+exports[`Builds index with selected path in a deeper level 1`] = `
+Object {
+  "Colors": Object {
+    "blue": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 5,
+            },
+            "medium": Object {
+              "count": 6,
+            },
+            "small": Object {
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 9,
+            },
+            "Disabled": Object {
+              "count": 11,
+            },
+          },
+          "count": 20,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 2,
+            },
+            "medium": Object {
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 2,
+            },
+            "Disabled": Object {
+              "count": 3,
+            },
+          },
+          "count": 5,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 5,
+            },
+            "Under 25": Object {
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 3,
+            },
+            "Disabled": Object {
+              "count": 4,
+            },
+          },
+          "count": 7,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 6,
+            },
+            "Under 25": Object {
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 4,
+            },
+            "Disabled": Object {
+              "count": 5,
+            },
+          },
+          "count": 9,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 9,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 4,
+            },
+            "Disabled": Object {
+              "count": 5,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 9,
+            },
+            "Under 25": Object {
+              "count": 2,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 3,
+            },
+            "medium": Object {
+              "count": 4,
+            },
+            "small": Object {
+              "count": 4,
+            },
+          },
+          "count": 11,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 11,
+            },
+            "Under 25": Object {
+              "count": 3,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 4,
+            },
+            "medium": Object {
+              "count": 5,
+            },
+            "small": Object {
+              "count": 5,
+            },
+          },
+          "count": 14,
+        },
+      },
+      "count": 25,
+    },
+    "brown": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 8,
+            },
+            "medium": Object {
+              "count": 5,
+            },
+            "small": Object {
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 4,
+            },
+            "Disabled": Object {
+              "count": 12,
+            },
+          },
+          "count": 16,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 5,
+            },
+            "medium": Object {
+              "count": 1,
+            },
+            "small": Object {
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 5,
+            },
+            "Disabled": Object {
+              "count": 4,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 8,
+            },
+            "Under 25": Object {
+              "count": 5,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 6,
+            },
+            "Disabled": Object {
+              "count": 7,
+            },
+          },
+          "count": 13,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 5,
+            },
+            "Under 25": Object {
+              "count": 1,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 1,
+            },
+            "Disabled": Object {
+              "count": 5,
+            },
+          },
+          "count": 6,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 3,
+            },
+            "Under 25": Object {
+              "count": 3,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 2,
+            },
+            "Disabled": Object {
+              "count": 4,
+            },
+          },
+          "count": 6,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 4,
+            },
+            "Under 25": Object {
+              "count": 5,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 6,
+            },
+            "medium": Object {
+              "count": 1,
+            },
+            "small": Object {
+              "count": 2,
+            },
+          },
+          "count": 9,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 12,
+            },
+            "Under 25": Object {
+              "count": 4,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 7,
+            },
+            "medium": Object {
+              "count": 5,
+            },
+            "small": Object {
+              "count": 4,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "count": 25,
+    },
+    "green": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 3,
+            },
+            "medium": Object {
+              "count": 7,
+            },
+            "small": Object {
+              "count": 7,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 9,
+            },
+            "Disabled": Object {
+              "count": 8,
+            },
+          },
+          "count": 17,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 2,
+            },
+            "medium": Object {
+              "count": 2,
+            },
+            "small": Object {
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 4,
+            },
+            "Disabled": Object {
+              "count": 2,
+            },
+          },
+          "count": 6,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 3,
+            },
+            "Under 25": Object {
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 1,
+            },
+            "Disabled": Object {
+              "count": 4,
+            },
+          },
+          "count": 5,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 7,
+            },
+            "Under 25": Object {
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 6,
+            },
+            "Disabled": Object {
+              "count": 3,
+            },
+          },
+          "count": 9,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 7,
+            },
+            "Under 25": Object {
+              "count": 2,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 6,
+            },
+            "Disabled": Object {
+              "count": 3,
+            },
+          },
+          "count": 9,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 9,
+            },
+            "Under 25": Object {
+              "count": 4,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 1,
+            },
+            "medium": Object {
+              "count": 6,
+            },
+            "small": Object {
+              "count": 6,
+            },
+          },
+          "count": 13,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 8,
+            },
+            "Under 25": Object {
+              "count": 2,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 4,
+            },
+            "medium": Object {
+              "count": 3,
+            },
+            "small": Object {
+              "count": 3,
+            },
+          },
+          "count": 10,
+        },
+      },
+      "count": 23,
+    },
+    "red": Object {
+      "Ages": Object {
+        "Over 25": Object {
+          "Sizes": Object {
+            "big": Object {
+              "count": 4,
+            },
+            "medium": Object {
+              "count": 9,
+            },
+            "small": Object {
+              "count": 6,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 10,
+            },
+            "Disabled": Object {
+              "count": 9,
+            },
+          },
+          "count": 19,
+        },
+        "Under 25": Object {
+          "Sizes": Object {
+            "medium": Object {
+              "count": 4,
+            },
+            "small": Object {
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 1,
+            },
+            "Disabled": Object {
+              "count": 7,
+            },
+          },
+          "count": 8,
+        },
+      },
+      "Sizes": Object {
+        "big": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 2,
+            },
+            "Disabled": Object {
+              "count": 2,
+            },
+          },
+          "count": 4,
+        },
+        "medium": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 9,
+            },
+            "Under 25": Object {
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 5,
+            },
+            "Disabled": Object {
+              "count": 8,
+            },
+          },
+          "count": 13,
+        },
+        "small": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 6,
+            },
+            "Under 25": Object {
+              "count": 4,
+            },
+          },
+          "Status": Object {
+            "Active": Object {
+              "count": 4,
+            },
+            "Disabled": Object {
+              "count": 6,
+            },
+          },
+          "count": 10,
+        },
+      },
+      "Status": Object {
+        "Active": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 10,
+            },
+            "Under 25": Object {
+              "count": 1,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 2,
+            },
+            "medium": Object {
+              "count": 5,
+            },
+            "small": Object {
+              "count": 4,
+            },
+          },
+          "count": 11,
+        },
+        "Disabled": Object {
+          "Ages": Object {
+            "Over 25": Object {
+              "count": 9,
+            },
+            "Under 25": Object {
+              "count": 7,
+            },
+          },
+          "Sizes": Object {
+            "big": Object {
+              "count": 2,
+            },
+            "medium": Object {
+              "count": 8,
+            },
+            "small": Object {
+              "count": 6,
+            },
+          },
+          "count": 16,
+        },
+      },
+      "count": 27,
+    },
+  },
+  "count": 100,
+}
+`;

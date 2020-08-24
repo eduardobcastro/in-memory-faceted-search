@@ -1,6 +1,6 @@
 {
   "name": "in-memory-faceted-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/eduardobcastro/in-memory-faceted-search"
   }
 }
